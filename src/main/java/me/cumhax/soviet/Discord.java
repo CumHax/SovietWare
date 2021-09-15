@@ -7,7 +7,7 @@ import net.minecraft.client.Minecraft;
 
 public class Discord {
 	
-    private static String discordID = "818496832455180319";
+    private static String discordID = "887648500794404884";
     private static DiscordRichPresence discordRichPresence = new DiscordRichPresence();
     private static DiscordRPC discordRPC = DiscordRPC.INSTANCE;
     
