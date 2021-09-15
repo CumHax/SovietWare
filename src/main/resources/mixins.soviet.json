@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.cumhax.soviet.mixin.mixins.mixin",
+  "refmap": "mixins.soviet.refmap.json",
+  "mixins": [
+    "MinecraftMixin",
+    "NetworkManagerMixin",
+    "TimerMixin"
+  ],
+  "client": [
+    "EntityPlayerSPMixin"
+  ]
+}
